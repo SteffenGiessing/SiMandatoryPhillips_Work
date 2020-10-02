@@ -1,0 +1,15 @@
+{
+  "name": "nemid_usergenerator",
+  "version": "1.0.0",
+  "description": "IDGenerator",
+  "main": "NemIDUserGenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Phillip Eismark",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
